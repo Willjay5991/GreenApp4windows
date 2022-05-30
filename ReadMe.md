@@ -1,18 +1,20 @@
-# ReadMe
+## ReadMe
+
+#### 介绍
 
 总结自己在使用windows 的时候很喜欢的应用程序，列表还在持续的更新中
 
 **项目URL**
 
-​	[github]()
+​	[github](https://github.com/Willjay5991/GreenApp4windows)
 
 ​	[gitee](https://gitee.com/willjayhomesite/green-app4-windows)
 
-## 目录
+#### 目录
 
 [toc]
 
-## 文件处理软件
+#### 文件处理软件
 
 - [7-zip](https://www.7-zip.org/)   
 
@@ -35,3 +37,23 @@
 - [freefilesync](https://freefilesync.org/): 本地文件自动备份、同步软件。
 
   推荐理由：可以很方便的配置自动自动文件备份。**固态硬盘有个硬伤：上面的数据通常不可以恢复**，所以再装一个机械硬盘，使用freefilesync自动同步固态硬盘上面的数据到机械硬盘了。就可以放心的使用固态硬盘了。
+
+
+
+
+
+#### 参与贡献
+
+1.  Fork 本仓库
+2.  新建 Feat_xxx 分支
+3.  提交代码
+4.  新建 Pull Request
+
+#### 特技
+
+1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
+2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
+3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
+4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
+5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
+6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
