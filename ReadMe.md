@@ -37,6 +37,10 @@
 - [freefilesync](https://freefilesync.org/): 本地文件自动备份、同步软件。
 
   推荐理由：可以很方便的配置自动自动文件备份。**固态硬盘有个硬伤：上面的数据通常不可以恢复**，所以再装一个机械硬盘，使用freefilesync自动同步固态硬盘上面的数据到机械硬盘了。就可以放心的使用固态硬盘了。
+  
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) : windows资源监控脚本程序，十分的简洁，可以监控内存，网速，cpu占用率等等
+
+- [draw.io](https://github.com/jgraph/drawio-desktop/releases): 开源的科研绘图软件，多平台都可以用（Linux，macOS，windows），**可以直接渲染显示tex公式** 这一功能比visio好用太多了。
 
 
 
